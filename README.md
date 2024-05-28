@@ -26,7 +26,8 @@
 <a href="https://linkedin.com/in/mimi-tvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MiMi-Yup" height="30" width="40" /></a>
 <a href="./readme/CV-01.png" target="blank"><img align="center" src="./readme/cv.png" alt="MiMi-Yup" height="30" width="40" style="background-color: grey; border-radius: 5px"/></a>
 
-<h2 >Github Statistics:</h3>
+<h2 >Github Statistics:</h2>
+<p>Since GitHub introduced GitHub Copilot, I've set up a Git server on my own server</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mimi-yup&hide=issues&count_private=true&show_icons=true&theme=radical" alt="MiMi-Yup" /> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mimi-yup&theme=omni" alt="GitHub Streak" /> </p>
