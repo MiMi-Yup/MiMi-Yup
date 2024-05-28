@@ -27,7 +27,7 @@
 <a href="./readme/CV-01.png" target="blank"><img align="center" src="./readme/cv.png" alt="MiMi-Yup" height="30" width="40" style="background-color: grey; border-radius: 5px"/></a>
 
 <h2 >Github Statistics:</h2>
-<p>Since GitHub introduced GitHub Copilot, I've set up a Git server on my own server</p>
+<p>Since GitHub introduced GitHub Copilot, I've set up a Git server on my own server and no longer commit code to GitHub</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mimi-yup&hide=issues&count_private=true&show_icons=true&theme=radical" alt="MiMi-Yup" /> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mimi-yup&theme=omni" alt="GitHub Streak" /> </p>
