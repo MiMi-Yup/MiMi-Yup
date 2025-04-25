@@ -13,9 +13,9 @@
 
 <ul>
   <li>🥳 <img style="margin-left: 4px"src="https://komarev.com/ghpvc/?username=mimi-yup&color=red" alt="MiMi-Yup" /></li>
-  <li>🎓 Third-year student at <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology">University of Information Technology - VNUHCM</a>, major as Software Engineer</li>
+  <li>🎓 <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology">University of Information Technology - VNUHCM</a>, major as Software Engineer</li>
+  <li>🌱 Backend, Data, Automation</li>
   <li>🏆 Top 15% of class</li>
-  <li>🌱 Learning .NET, backend</li>
   <li>🚀 Learn-Code-Bug-Fix-Repeat</li>
 </ul>
 
